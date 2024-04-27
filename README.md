@@ -5,10 +5,10 @@
 
 项目结构：
 1.TCM_bert   
-  -中医预训练模型/n
-  -对照组：ALBERT和Chinese-BERT/n
-2.w-LSTM/n
-  -w-lstm/n
+  -中医预训练模型
+  -对照组：ALBERT和Chinese-BERT
+2.w-LSTM
+  -w-lstm
   -对照组：随机森林、XGBoost、SVM
 3.BiLSTM
 
