@@ -10,7 +10,6 @@
 ## Project：
 ### 1.PCSD_BERT   
      -Traditional Chinese medicine pre-training model
-     
      -Traditional Chinese Medicine Medical Record Classification Task
       -BERTVIZ attention mechanism visualization
       -Contribution (gradient integral)
