@@ -18,4 +18,3 @@
   -Chinese_base_BERT
   -LSTM
   -TEXT_CNN
-
