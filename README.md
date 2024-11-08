@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, This is PCSD_BERT<br><br> <img src="https://komarev.com/ghpvc/?username=wangzaimieyoutou&style=for-the-badge">
-  <h1 align="center"><image src="https://img.shields.io/badge/modle-PCSD_BERT-blue"></h1>
+  <h1 align="center"><image src="https://img.shields.io/badge/modle-PCSD_BERT-blue"><img alt="Static Badge" src="https://img.shields.io/badge/jupyter-blue?logoColor=%E9%BB%84%E8%89%B2"><img alt="Static Badge" src="https://img.shields.io/badge/python==3.12-blue?logoColor=%E9%BB%84%E8%89%B2"><img alt="Static Badge" src="https://img.shields.io/badge/transformers%3D%3D4.5-blue?logoColor=%E9%BB%84%E8%89%B2">
+</h1>
     
 ## Main tasks and future prospects
 1. PCSD-BERT
