@@ -6,7 +6,8 @@
 2. prognostic data
 3. Multi-modal task of TCM syndrome differentiation experience + medical imaging data + omics data (outlook)
 
-Project：
+## Project：
+
 1.PCSD_BERT   
   -Traditional Chinese medicine pre-training model
   -Traditional Chinese Medicine Medical Record Classification Task
