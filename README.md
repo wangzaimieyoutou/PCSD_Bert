@@ -8,20 +8,14 @@
 3. Multi-modal task of TCM syndrome differentiation experience + medical imaging data + omics data (outlook)
 
 ## Project：
-
-1.PCSD_BERT   
-  -Traditional Chinese medicine pre-training model
-  
-  -Traditional Chinese Medicine Medical Record Classification Task
-  
-   -BERTVIZ attention mechanism visualization
+### 1.PCSD_BERT   
+     -Traditional Chinese medicine pre-training model
+     
+     -Traditional Chinese Medicine Medical Record Classification Task
+      -BERTVIZ attention mechanism visualization
+      -Contribution (gradient integral)
    
-   -Contribution (gradient integral)
-   
-2.Control group
-
-  -Chinese_base_BERT
-  
-  -LSTM
-  
-  -TEXT_CNN
+### 2.Control group
+     -Chinese_base_BERT  
+     -LSTM
+     -TEXT_CNN
